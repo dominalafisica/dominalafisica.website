@@ -1,3 +1,3 @@
-{{% alert note %}}
+{{% /alert %}}
 **Forthcoming Content**
 {{% /alert %}}
