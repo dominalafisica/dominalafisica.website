@@ -1,5 +1,5 @@
 ---
-title: Video Lectures
+title: Technical Notes
 type: landing
 
 sections:
