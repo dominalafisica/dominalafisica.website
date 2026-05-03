@@ -9,7 +9,7 @@ sections:
       title: "Domina la Física"
       text: |
         <h2 style="font-size: 2.4rem; font-weight: 400; line-height: 1.3; margin-top: 80px; margin-bottom: 1rem;">
-          Providing free resources for a rigorous and comprehensive understanding of physics.
+          Providing free resources for a clear and comprehensive understanding of physics.
         </h2>
         <p style="font-size: 1.4rem; font-weight: 300; opacity: 0.9;">
           Emphasizing problem solving as well as formal mathematical derivations and demonstrations.
