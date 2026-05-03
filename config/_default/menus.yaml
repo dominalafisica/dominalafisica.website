@@ -14,16 +14,16 @@ main:
     
 # Sidebar for the documentation pages
 sidebar:
-  - identifier: social_header
-    name: Connect
+  - identifier: ""
+    name: ""
     params:
-      type: separator
-    weight: 10
-  - identifier: youtube_sidebar
-    name: "YouTube Channel"
-    url: "https://www.youtube.com/@DominalaFisica"
-    weight: 20
-  - identifier: instagram_sidebar
-    name: "Instagram"
-    url: "https://www.instagram.com/dominalafisica"
-    weight: 30
+      type: ""
+    weight: ""
+  - identifier: ""
+    name: ""
+    url: ""
+    weight: ""
+  - identifier: ""
+    name: ""
+    url: ""
+    weight: ""
