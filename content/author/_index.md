@@ -9,4 +9,4 @@ authors:
 # Tu rol profesional
 role: Physicist & Content Creator
 
-
+social: ""
