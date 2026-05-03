@@ -9,12 +9,12 @@ cascade:
   # Docs folder options
   - target:
       path: /docs/**
-    editable: true
+    editable: false
     show_breadcrumb: true
     # Hide date from Next In Series
     show_date: false
     # Show date modified at end of content
-    show_date_updated: true
+    show_date_updated: false
   # Blog post options
   - target:
       path: /blog/**
@@ -28,10 +28,10 @@ cascade:
     show_related: true
     share: true
     # Just use Breadcrumb for navigation on blog post pages?
-    show_breadcrumb: false
+    show_breadcrumb: true
     header:
       navbar:
-        enable: false
+        enable: true
 
 ############################
 ## LANGUAGE
