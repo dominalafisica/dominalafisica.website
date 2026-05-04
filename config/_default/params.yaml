@@ -169,7 +169,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   analytics:
     google:
-      measurement_id: ""
+      measurement_id: "G-95XHVPK2FM"
     google_tag_manager:
       container_id: ""
     plausible:
@@ -188,7 +188,7 @@ hugoblox:
   # Search engine site verification codes
   # ────────────────────────────────────────────────────────────────────────────
   verification:
-    google: ""
+    google: "google81687bb9f45c70e2"
     bing: ""
     baidu: ""
     yandex: ""
@@ -251,3 +251,4 @@ hugoblox:
   pro:
     hide_attribution: true
     affiliate_code: ""
+    
