@@ -1,6 +1,6 @@
 ---
-title: Home
-date: 2024-01-01
+title: Domina la Física
+date: 2026-04-04
 type: landing
 
 sections:
