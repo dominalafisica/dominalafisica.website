@@ -89,3 +89,6 @@ sitemap:
   _merge: deep
 minify:
   _merge: deep
+
+#Google Analytics
+googleAnalytics: "G-95XHVPK2FM"
