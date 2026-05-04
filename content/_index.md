@@ -1,5 +1,5 @@
 ---
-title: Domina la Física
+title: ""
 date: 2026-04-04
 type: landing
 
