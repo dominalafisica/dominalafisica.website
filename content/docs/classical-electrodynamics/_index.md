@@ -24,10 +24,10 @@ sections:
         </div>
         <div>
         <h3 style="margin-top: 0; color: #60a5fa; font-size: 1.8rem;">Electrostatic Potential and Field of a Charged Sphere: Spherical Harmonics Approach</h3>
-        <p style="margin-bottom: 1.5rem; line-height: 1.6;"><strong>Abstract:</strong><br><em>The electrostatic potential and field produced everywhere in space by a charged spherical surface are derived by employing the spherical harmonics expansion of $\frac{1}{|\pmb{\mathbf{r}}-\pmb{\mathbf{r}}'|}$, which is proportional to the Green's function of the 3D Laplacian operator.</em></p>
+        <p style="margin-bottom: 1.5rem; line-height: 1.6;"><strong>Abstract:</strong><br><em>The electrostatic potential and field produced throughout space by a charged spherical surface are derived by employing the spherical harmonics expansion of $\frac{1}{|\pmb{\mathbf{r}}-\pmb{\mathbf{r}}'|}$, a term proportional to the Green function of the three-dimensional Laplacian.</em></p>
         <details style="border: 1px solid #374151; border-radius: 6px; padding: 1rem; background-color: #1a202c;">
         <summary style="cursor: pointer; color: #3b82f6; font-weight: bold; font-size: 1.1rem; list-style: none;">▶ Read full technical details...</summary>
-        <div style="margin-top: 15px; font-style: italic; font-size: 1rem; color: #d1d5db; line-height: 1.6;">Once the potential is determined, the electric field is obtained by calculating its negative gradient. This approach highlights the efficiency of special function expansions compared to traditional integration techniques.</div>
+        <div style="margin-top: 15px; font-style: italic; font-size: 1rem; color: #d1d5db; line-height: 1.6;">Once the potential is determined, the electric field is obtained by calculating its negative gradient. This approach provides an efficient alternative to direct evaluation of the potential integral.</div>
         </details>
         </div>
         </div>
