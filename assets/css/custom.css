@@ -1,7 +1,28 @@
-/* --- 1. RECUPERAR EL TAMAÑO DEL MENÚ --- */
-.navbar-brand { font-size: 2.2rem !important; font-weight: 800 !important; }
-.navbar-nav .nav-link { font-size: 1.3rem !important; margin: 0 1rem !important; }
+/* --- 1. RECUPERAR EL TAMAÑO DEL MENÚ E INSERTAR EL LOGO --- */
+.navbar-brand { 
+  font-size: 2.2rem !important; 
+  font-weight: 800 !important; 
+  display: flex !important;     /* Activa la alineación del logo y texto */
+  align-items: center;          /* Centra verticalmente el logo con las letras */
+  gap: 15px;                    /* Espacio entre el logo y la "D" de Domina */
+}
 
+/* Inyecta el logo SVG justo antes del texto */
+.navbar-brand::before {
+  content: "";
+  display: inline-block;
+  width: 38px;                  /* Como tu letra es de 2.2rem, el logo debe ser grandecito. Ajusta este valor */
+  height: 38px;                 /* Ajusta a la par del width */
+  background-image: url('/logo.svg'); /* Asegúrate de que el logo esté en la carpeta 'static' */
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.navbar-nav .nav-link { 
+  font-size: 1.3rem !important; 
+  margin: 0 1rem !important; 
+}
 /* --- 2. ROMPER LAS PAREDES DEL CONTENEDOR DE HUGO --- */
 .expand-container {
   width: 90vw; /* Toma el 90% del ancho real de tu pantalla */
