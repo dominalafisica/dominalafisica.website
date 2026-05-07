@@ -4,15 +4,15 @@
   font-weight: 800 !important; 
   display: flex !important;     /* Activa la alineación del logo y texto */
   align-items: center;          /* Centra verticalmente el logo con las letras */
-  gap: 3px;                    /* Espacio entre el logo y la "D" de Domina */
+  gap: 1px;                    /* Espacio entre el logo y la "D" de Domina */
 }
 
 /* Inyecta el logo SVG justo antes del texto */
 .navbar-brand::before {
   content: "";
   display: inline-block;
-  width: 45px;                  /* Como tu letra es de 2.2rem, el logo debe ser grandecito. Ajusta este valor */
-  height: 45px;                 /* Ajusta a la par del width */
+  width: 50px;                  /* Como tu letra es de 2.2rem, el logo debe ser grandecito. Ajusta este valor */
+  height: 50px;                 /* Ajusta a la par del width */
   background-image: url('/logo.svg'); /* Asegúrate de que el logo esté en la carpeta 'static' */
   background-size: contain;
   background-position: center;
