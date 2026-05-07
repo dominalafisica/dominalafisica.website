@@ -7,7 +7,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   identity:
     name: "Domina la Física"
-    logo: "logo.svg"
+    logo: "dark_logo.svg"
     organization: "Domina la Física"
     type: person
     tagline: ""
