@@ -115,3 +115,7 @@ a[href*="clone"] {
     height: 40px;
   }
 }
+body.light .navbar-brand::before,
+[data-theme="light"] .navbar-brand::before {
+  filter: invert(1) !important;
+}
