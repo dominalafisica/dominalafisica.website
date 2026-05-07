@@ -2,6 +2,19 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
+   <style>
+    /* 1. Color por defecto (Modo Oscuro): Letras Blancas */
+    path, use, rect, polygon, circle { 
+      fill: #ffffff !important; 
+    }
+    
+    /* 2. Color para Modo Claro: Detección automática */
+    @media (prefers-color-scheme: light) {
+      path, use, rect, polygon, circle { 
+        fill: #0a192f !important; /* Aquí puse un azul marino muy oscuro, pero puedes poner #000000 para negro puro */
+      }
+    }
+  </style>
    width="166.68748mm"
    height="265.37708mm"
    viewBox="0 0 166.68748 265.37708"
