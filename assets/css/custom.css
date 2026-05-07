@@ -93,25 +93,3 @@
 a[href*="clone"] {
     display: none !important;
 }
-
-/* --- 5. AJUSTE PARA CELULARES --- */
-@media (max-width: 1000px) {
-  .video-grid {
-    grid-template-columns: 1fr;
-    gap: 1.5rem;
-  }
-  .expand-container {
-    width: 95vw; /* En celular ocupa casi todo el ancho */
-  }
-  
-  /* NUEVO: Ocultar texto del logo en móviles */
-  .navbar-brand {
-    font-size: 0 !important; /* Desaparece el texto */
-  }
-  
-  /* Opcional: Puedes hacer el logo un poco más pequeño para celulares si 50px se ve muy gigante */
-  .navbar-brand::before {
-    width: 40px; 
-    height: 40px;
-  }
-}
