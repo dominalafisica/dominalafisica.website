@@ -7,6 +7,12 @@
   gap: 0px;
 }
 
+/* Tamaño de los links de la barra de navegación */
+.navbar-nav .nav-link { 
+  font-size: 1.3rem !important; 
+  margin: 0 1rem !important; 
+}
+
 /* Logo: modo OSCURO (default del sitio) */
 /* HugoBlox añade la clase 'dark' al <html> en modo oscuro */
 .navbar-brand::before {
