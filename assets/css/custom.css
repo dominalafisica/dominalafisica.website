@@ -2,40 +2,44 @@
 .navbar-brand { 
   font-size: 2.2rem !important; 
   font-weight: 800 !important; 
-  display: flex !important;     /* Activa la alineación del logo y texto */
-  align-items: center;          /* Centra verticalmente el logo con las letras */
-  gap: 0px;                    /* Espacio entre el logo y la "D" de Domina */
+  display: flex !important;
+  align-items: center;
+  gap: 0px;
 }
 
-/* Inyecta el logo SVG justo antes del texto */
+/* Logo: modo OSCURO (default del sitio) */
+/* HugoBlox añade la clase 'dark' al <html> en modo oscuro */
 .navbar-brand::before {
   content: "";
   display: inline-block;
-  width: 50px;                  /* Como tu letra es de 2.2rem, el logo debe ser grandecito. Ajusta este valor */
-  height: 50px;                 /* Ajusta a la par del width */
-  background-image: url('/logo.svg'); /* Asegúrate de que el logo esté en la carpeta 'static' */
+  width: 50px;
+  height: 50px;
+  background-image: url('/logo-dark.svg');   /* letras blancas */
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
 }
 
-.navbar-nav .nav-link { 
-  font-size: 1.3rem !important; 
-  margin: 0 1rem !important; 
+/* Logo: modo CLARO */
+/* HugoBlox elimina la clase 'dark' del <html> al cambiar a claro */
+html:not(.dark) .navbar-brand::before {
+  background-image: url('/logo-light.svg');  /* letras negras */
 }
+
+
 /* --- 2. ROMPER LAS PAREDES DEL CONTENEDOR DE HUGO --- */
 .expand-container {
-  width: 90vw; /* Toma el 90% del ancho real de tu pantalla */
-  max-width: 1400px; /* Límite para que no se vea deforme en pantallas de cine */
+  width: 90vw;
+  max-width: 1400px;
   position: relative;
   left: 50%;
-  transform: translateX(-50%); /* Este es el truco que lo centra forzosamente */
+  transform: translateX(-50%);
 }
 
 /* --- 3. DISEÑO DE LA CUADRÍCULA (VIDEO VS TEXTO) --- */
 .video-grid {
   display: grid;
-  grid-template-columns: 2fr 1fr; /* Video doble de grande que el texto */
+  grid-template-columns: 2fr 1fr;
   gap: 3rem;
   align-items: start;
   margin: 2rem 0;
@@ -48,17 +52,6 @@
   border-radius: 12px;
   box-shadow: 0 10px 40px rgba(0,0,0,0.4);
   border: none;
-}
-
-/* --- 5. AJUSTE PARA CELULARES --- */
-@media (max-width: 1000px) {
-  .video-grid {
-    grid-template-columns: 1fr;
-    gap: 1.5rem;
-  }
-  .expand-container {
-    width: 95vw; /* En celular ocupa casi todo el ancho */
-  }
 }
 
 /* 1. Eliminar la publicidad y el texto "Made with" */
@@ -101,25 +94,16 @@ a[href*="clone"] {
     gap: 1.5rem;
   }
   .expand-container {
-    width: 95vw; /* En celular ocupa casi todo el ancho */
+    width: 95vw;
   }
   
-  /* NUEVO: Ocultar texto del logo en móviles */
+  /* Ocultar texto del logo en móviles */
   .navbar-brand {
-    font-size: 0 !important; /* Desaparece el texto */
+    font-size: 0 !important;
   }
   
-  /* Opcional: Puedes hacer el logo un poco más pequeño para celulares si 50px se ve muy gigante */
   .navbar-brand::before {
     width: 40px; 
     height: 40px;
   }
-}
-/* Esto cubre prácticamente todas las formas en que Hugo Blox marca el modo claro */
-html.light .navbar-brand::before,
-html[data-theme='light'] .navbar-brand::before,
-body.light .navbar-brand::before,
-[data-theme='light'] .navbar-brand::before {
-  filter: invert(1) !important;
-  -webkit-filter: invert(1) !important; /* Obligatorio para que funcione en Safari de iPhone */
 }
