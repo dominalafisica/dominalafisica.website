@@ -115,7 +115,11 @@ a[href*="clone"] {
     height: 40px;
   }
 }
+/* Esto cubre prácticamente todas las formas en que Hugo Blox marca el modo claro */
+html.light .navbar-brand::before,
+html[data-theme='light'] .navbar-brand::before,
 body.light .navbar-brand::before,
-[data-theme="light"] .navbar-brand::before {
+[data-theme='light'] .navbar-brand::before {
   filter: invert(1) !important;
+  -webkit-filter: invert(1) !important; /* Obligatorio para que funcione en Safari de iPhone */
 }
