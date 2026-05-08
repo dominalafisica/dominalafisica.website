@@ -6,10 +6,10 @@ main:
     url: /
     weight: 10
   - name: Technical Notes
-    url: /notes/
+    url: /docs/
     weight: 20
   - name: Video Lectures
-    url: /lectures/
+    url: /videos/
     weight: 30
     
 # Sidebar for the documentation pages
