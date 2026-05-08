@@ -5,6 +5,10 @@ baseurl: 'https://www.dominalafisica.com/' # Website URL
 ## PAGE OPTIONS
 ############################
 
+disableKinds:
+  - taxonomy
+  - term
+  
 cascade:
   # Docs folder options
   - target:
@@ -68,10 +72,13 @@ imaging:
   anchor: smart
   hint: picture
 timeout: 600000
-taxonomies:
-  tag: tags
-  category: categories
-  author: authors
+
+
+#taxonomies:
+#  tag: tags
+#  category: categories
+# author: authors
+
 markup:
   _merge: deep
 related:
