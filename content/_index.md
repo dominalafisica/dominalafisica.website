@@ -12,7 +12,7 @@ sections:
           Providing free resources for a clear and comprehensive understanding of physics.
         </h2>
         <p style="font-size: 1.4rem; font-weight: 300; opacity: 0.9;">
-          Emphasizing problem solving as well as formal mathematical derivations and demonstrations.
+          Emphasizing problem solving as well as mathematical derivations and demonstrations.
         </p>
       cta:
         label: Physics Notes
@@ -29,14 +29,14 @@ sections:
     content:
       title: "About the Project"
       items:
-        - name: "Rigorous Derivations"
+        - name: "Clear Derivations"
           description: "Mathematical proofs and analytical methods."
           icon: book-open
         - name: "Problem Solving"
           description: "Step-by-step solutions to complex physical problems."
           icon: pencil
         - name: "Open Access"
-          description: "High-quality resources for the global physics community."
+          description: "Free resources for the global physics community."
           icon: users
     design:
       columns: '3'
