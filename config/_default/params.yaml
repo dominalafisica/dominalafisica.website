@@ -14,6 +14,10 @@ hugoblox:
     social:
       twitter: ""
 
+  marketing:
+    seo:
+      site_type: Person
+      org_name: 'Domina la Física'
   # ────────────────────────────────────────────────────────────────────────────
   # THEME
   # Color and visual design system
