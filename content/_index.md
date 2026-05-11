@@ -12,7 +12,7 @@ sections:
           Providing free resources for a clear and comprehensive understanding of physics.
         </h2>
         <p style="font-size: 1.4rem; font-weight: 300; opacity: 0.9;">
-          Emphasizing problem solving as well as mathematical derivations and demonstrations.
+          Emphasizing problem solving, mathematical derivations, and demonstrations.
         </p>
       cta:
         label: Physics Notes
