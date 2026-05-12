@@ -32,8 +32,8 @@ sections:
         - name: "Clear Derivations"
           description: "Mathematical proofs and analytical methods."
           icon: book-open
-        - name: "Problem Solving"
-          description: "Step-by-step solutions to complex physical problems."
+        - name: "Solved Problems"
+          description: "Step-by-step solutions to physical problems."
           icon: pencil
         - name: "Open Access"
           description: "Free resources for the global physics community."
@@ -51,7 +51,7 @@ sections:
         Comprehensive notes for undergraduate and graduate physics.
 
         - **Mathematical Methods:** Differential equations, special functions, vector analysis, and analytical tools.
-        - **Classical Electrodynamics:** Field and potential problems, multipole expansions, boundary-value problems, and Maxwell's equations.
+        - **Classical Electrodynamics:** Potential and field, multipole expansions, boundary-value problems, and Maxwell's equations.
         - **Classical Mechanics:** Newtonian, Lagrangian, and Hamiltonian formulations, as well as rigid body dynamics.
         - **Quantum Mechanics:** Wave mechanics, formalism, and advanced quantum systems.
     design:
