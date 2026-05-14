@@ -113,3 +113,20 @@ a[href*="clone"] {
     height: 40px;
   }
 }
+
+/* Light/Dark mode variables for technical notes */
+:root {
+  --note-text: #1f2937;
+  --note-card-bg: #e5e7eb;
+  --note-border: #d1d5db;
+  --note-details-bg: #f3f4f6;
+  --note-details-text: #374151;
+}
+
+.dark {
+  --note-text: #f3f4f6;
+  --note-card-bg: #111827;
+  --note-border: #374151;
+  --note-details-bg: #1a202c;
+  --note-details-text: #d1d5db;
+}
