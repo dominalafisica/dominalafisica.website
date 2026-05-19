@@ -22,11 +22,11 @@ sections:
         </div>
         </div>
         <div>
-        <h3 style="margin-top: 0; color: #60a5fa; font-size: 1.8rem;">Electrostatic Potential and Field of a Charged Sphere: Spherical Harmonics Approach</h3>
-        <p style="margin-bottom: 1.5rem; line-height: 1.6;"><strong>Abstract:</strong><br><em>The electrostatic potential and field produced throughout space by a charged spherical surface are derived by employing the spherical harmonics expansion of $\frac{1}{|\pmb{\mathbf{r}}-\pmb{\mathbf{r}}'|}$, a term proportional to the Green function of the three-dimensional Laplacian.</em></p>
+        <h3 style="margin-top: 0; color: #60a5fa; font-size: 1.8rem;">Motion of a Particle Constrained to a Rotating Plane</h3>
+        <p style="margin-bottom: 1.5rem; line-height: 1.6;"><strong>Abstract:</strong><br><em>This note presents a derivation of the trajectory of a particle constrained to slide along a smooth rotating plane. We approach the problem using Lagrangian Mechanics, determining the Lagrangian and the equation of motion via Euler-Lagrange.</em></p>
         <details style="border: 1px solid var(--note-border); border-radius: 6px; padding: 1rem; background-color: var(--note-details-bg);">
         <summary style="cursor: pointer; color: #3b82f6; font-weight: bold; font-size: 1.1rem; list-style: none;">▶ Read full technical details...</summary>
-        <div style="margin-top: 15px; font-style: italic; font-size: 1rem; color: var(--note-details-text); line-height: 1.6;">Once the potential is determined, the electric field is obtained by taking its negative gradient. This approach provides an efficient alternative to direct evaluation of the potential integral. <br><br> DOI: <a href="https://doi.org/10.5281/zenodo.20035081" target="_blank"> https://doi.org/10.5281/zenodo.20035081</a> </div>
+        <div style="margin-top: 15px; font-style: italic; font-size: 1rem; color: var(--note-details-text); line-height: 1.6;">Finally, we solve the resulting ODE by applying the method of undetermined coefficients, obtaining the time evolution of the position of the particle. <br><br> DOI: <a href="https://doi.org/10.5281/zenodo.20277928" target="_blank"> https://doi.org/10.5281/zenodo.20277928</a> </div>
         </details>
         </div>
         </div>
