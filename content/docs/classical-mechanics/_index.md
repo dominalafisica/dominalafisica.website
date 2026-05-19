@@ -18,7 +18,7 @@ sections:
         <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; display: flex; flex-direction: column; align-items: center; justify-content: center; background: rgba(17, 24, 39, 0.5); padding: 1.5rem; text-align: center; color: white;">
         <svg style="width: 56px; height: 56px; color: #ef4444; margin-bottom: 1.5rem;" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M7 21h10a2 2 0 002-2V9.414a1 1 0 00-.293-.707l-5.414-5.414A1 1 0 0012.586 3H7a2 2 0 00-2 2v14a2 2 0 002 2z"></path></svg>
         <a href="/docs/classical-mechanics/Notes/Motion-of-a-Particle-Constrained-to-a-Rotating-Plane/Motion-of-a-Particle-Constrained-to-a-Rotating-Plane_v1.0.pdf" target="_blank" style="background-color: #3b82f6; color: white; padding: 0.8rem 1.6rem; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.9rem; box-shadow: 0 6px 15px rgba(0, 0, 0, 0.4);">Download Note</a>
-        <p style="margin-top: 1.2rem; font-size: 0.9rem; color: #ffffff; font-weight: 500;">Size: ~ 210 KB</p>
+        <p style="margin-top: 1.2rem; font-size: 0.9rem; color: #ffffff; font-weight: 500;">Size: ~ 208 KB</p>
         </div>
         </div>
         <div>
