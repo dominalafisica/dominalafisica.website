@@ -34,7 +34,7 @@ sections:
         <div class="expand-container">
         <div class="video-grid">
         <div class="video-wrapper">
-        {{< youtube "YDnn3l42jjU" >}}
+        {{< youtube "YDnn3I42jjU" >}}
         </div>
         <div>
         <h3 style="margin-top: 0;">Hermitian Operators: Eigenvalues & Eigenvectors | Fundamental Properties</h3>
