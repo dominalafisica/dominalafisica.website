@@ -66,7 +66,7 @@ sections:
         <details>
         <summary><span style="color:#3b82f6; cursor:pointer; font-weight:bold;">Read full description...</span></summary>
         <div style="margin-top: 10px; font-style: italic; font-size: 0.95rem;">
-        In this session, we explore the profound relationship between Electromagnetism and the theory of Special Relativity. By analyzing the invariance of Maxwell's equations under coordinate transformations, we derive the Lorentz factor ($\gamma$) and the transformations for space and time. The lecture covers inertial systems, the application of the chain rule for primed coordinates, and the formal connection between Galilean and Lorentz physics. 
+        In this lecture, we explore the profound relationship between Electromagnetism and the theory of Special Relativity. By analyzing the invariance of Maxwell's equations under coordinate transformations, we derive the Lorentz factor ($\gamma$) and the transformations for space and time. The lecture covers inertial systems, the application of the chain rule for primed coordinates, and the formal connection between Galilean and Lorentz physics. 
         </div>
         </details>
         </div>
@@ -105,7 +105,7 @@ sections:
         <div>
         <h3 style="margin-top: 0;">Every Electrostatic Field is Conservative | Derived from Coulomb's Law</h3>
         <p><strong>Description:</strong><br>
-        <em>A rigorous derivation proving why the electrostatic field is conservative, transitioning from point charges to the Poisson equation.</em></p>
+        <em>A derivation proving why the electrostatic field is conservative, transitioning from point charges to the Poisson equation.</em></p>
         <details>
         <summary><span style="color:#3b82f6; cursor:pointer; font-weight:bold;">Read full description...</span></summary>
         <div style="margin-top: 10px; font-style: italic; font-size: 0.95rem;">
@@ -148,7 +148,7 @@ sections:
         <div>
         <h3 style="margin-top: 0;">Electric Field of an Infinite Wire | Vector Method in Cylindrical Coordinates</h3>
         <p><strong>Description:</strong><br>
-        <em>In this video, we determine the electric field produced by an infinite wire using a rigorous vector integration method.</em></p>
+        <em>In this video, we determine the electric field produced by an infinite wire using the vector integration method.</em></p>
         <details>
         <summary><span style="color:#3b82f6; cursor:pointer; font-weight:bold;">Read full description...</span></summary>
         <div style="margin-top: 10px; font-style: italic; font-size: 0.95rem;">
