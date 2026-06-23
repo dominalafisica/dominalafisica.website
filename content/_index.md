@@ -30,7 +30,7 @@ sections:
       title: "About the Project"
       items:
         - name: "Clear Derivations"
-          description: "Mathematical proofs and analytical methods."
+          description: "Detailed derivations and analytical methods."
           icon: book-open
         - name: "Solved Problems"
           description: "Step-by-step solutions to physical problems."
