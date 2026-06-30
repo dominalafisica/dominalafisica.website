@@ -22,7 +22,7 @@ sections:
         </div>
         </div>
         <div>
-        <h3 style="margin-top: 0; color: #60a5fa; font-size: 1.8rem;">The Hydrogen Molecular Ion $H_2^+$ with Overlap: Symmetric and Antisymmetric States via the LCAO Method </h3>
+        <h3 style="margin-top: 0; color: #60a5fa; font-size: 1.8rem;">Bessel Differential Equation: General Solution and Derivation of the Neumann Function for Integer Orders</h3>
         <p style="margin-bottom: 1.5rem; line-height: 1.6;"><strong>Abstract:</strong><br><em> We derive the general solution of the Bessel equation for all orders via the Frobenius method. 
         In particular, for integer orders, we obtain the Bessel function of the second kind (Neumann function), which serves as the second linearly independent solution alongside the Bessel function of the first kind. </em></p>
         <details style="border: 1px solid var(--note-border); border-radius: 6px; padding: 1rem; background-color: var(--note-details-bg);">
