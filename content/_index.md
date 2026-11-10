@@ -53,7 +53,7 @@ sections:
         - **Mathematical Methods:** Differential equations, special functions, vector analysis, and analytical tools.
         - **Classical Electrodynamics:** Potential and field, multipole expansions, boundary-value problems, and Maxwell's equations.
         - **Classical Mechanics:** Newtonian, Lagrangian, and Hamiltonian formulations, as well as rigid body dynamics.
-        - **Quantum Mechanics:** Wave mechanics, formalism, and advanced quantum systems.
+        - **Quantum Mechanics:** Dirac formalism and advanced quantum systems.
     design:
       spacing:
         padding: ['80px', '0', '80px', '0']
