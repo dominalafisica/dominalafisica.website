@@ -20,7 +20,7 @@ sections:
         <br>
 
         ### [Quantum Mechanics](/docs/quantum-mechanics/)
-        Wave mechanics, Dirac formalism, and advanced quantum systems.
+        Dirac formalism and advanced quantum systems.
        
     design:
       spacing:
