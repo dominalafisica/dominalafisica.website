@@ -144,11 +144,13 @@ sections:
         <div>
         <h3 style="margin-top: 0;">Foundations of Calculus of Variations</h3>
         <p><strong>Description:</strong><br>
-        <em>In this lecture we study some fundamental topics about calculus of variations oriented to work on classical mechanics.\\Bibliography: S. T. Thornton & J. B. Marion, \textit{Classical Dynamics of Particles and Systems}</em></p>
+        <em>In this lecture we study some fundamental topics in calculus of variations tailored for classical mechanics.</em></p>
         <details>
         <summary><span style="color:#3b82f6; cursor:pointer; font-weight:bold;">Read full description...</span></summary>
         <div style="margin-top: 10px; font-style: italic; font-size: 0.95rem;">
-        We start from the stationary condition for the functional, then we derive Euler's equation for one and several dependent variables, and we also find an alternative form of the equation. We tackle the problem         of several constraints obtaining an Euler's equation for a modified function. Furthermore, we introduce the $\delta$ notation.
+        Starting from the stationary condition for the functional, we derive Euler's equation for one and several dependent variables, as well as an alternative form of the equation. We then tackle the problem               of multiple constraints, obtaining Euler's equation for a modified function. Furthermore, we introduce the $\delta$ notation.
+
+        Bibliography: S. T. Thornton & J. B. Marion, *Classical Dynamics of Particles and Systems*
         </div>
         </details>
         </div>
