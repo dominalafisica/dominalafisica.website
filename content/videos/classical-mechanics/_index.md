@@ -150,7 +150,7 @@ sections:
         <div style="margin-top: 10px; font-style: italic; font-size: 0.95rem;">
         Starting from the stationary condition for the functional, we derive Euler's equation for one and several dependent variables, as well as an alternative form of the equation. We then tackle the problem               of multiple constraints, obtaining Euler's equation for a modified function. Furthermore, we introduce the $\delta$ notation.
 
-        Bibliography: S. T. Thornton & J. B. Marion, *Classical Dynamics of Particles and Systems*
+        Bibliography: S. T. Thornton & J. B. Marion, *Classical Dynamics of Particles and Systems*.
         </div>
         </details>
         </div>
