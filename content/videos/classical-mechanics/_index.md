@@ -144,7 +144,7 @@ sections:
         <div>
         <h3 style="margin-top: 0;">Foundations of Calculus of Variations</h3>
         <p><strong>Description:</strong><br>
-        <em>In this lecture we study some fundamental topics in calculus of variations tailored for classical mechanics.</em></p>
+        <em>In this lecture we study some fundamental topics in calculus of variations aimed to classical mechanics.</em></p>
         <details>
         <summary><span style="color:#3b82f6; cursor:pointer; font-weight:bold;">Read full description...</span></summary>
         <div style="margin-top: 10px; font-style: italic; font-size: 0.95rem;">
