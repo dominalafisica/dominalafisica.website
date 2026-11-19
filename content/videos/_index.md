@@ -20,7 +20,7 @@ sections:
         <br>
 
         ### [Quantum Mechanics](/videos/quantum-mechanics/)
-        Wave mechanics, formalism, and advanced quantum systems.
+        Dirac formalism and advanced quantum systems.
        
     design:
       spacing:
