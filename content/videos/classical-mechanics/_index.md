@@ -139,7 +139,7 @@ sections:
          <div class="expand-container">
         <div class="video-grid">
         <div class="video-wrapper">
-        {{< youtube "8O5o263n6EM" >}}
+        {{< youtube "sL9bJVWeyOU" >}}
         </div>
         <div>
         <h3 style="margin-top: 0;">Foundations of Calculus of Variations</h3>
